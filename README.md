@@ -116,3 +116,6 @@ Each VLAN operates as an independent broadcast domain.
 ## 🔗 Repository
 
 https://github.com/phalgunidhopte06/VLAN-Network-Project
+
+## Observation
+Added connectivity testing details
