@@ -76,7 +76,7 @@ Each VLAN operates as an independent broadcast domain.
 
 ---
 
-### 🌐 IP Configuration (Sample Node)
+### 🌐 IP Configuration
 
 ![IP](ip_addresses.jpg)
 
@@ -117,9 +117,6 @@ Each VLAN operates as an independent broadcast domain.
 
 https://github.com/phalgunidhopte06/VLAN-Network-Project
 
-## Observation
-Added connectivity testing details
-
-## IP Addressing
-Added VLAN Configuration details
+## Contributors
+See repository contributors section on GitHub.
 
