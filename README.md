@@ -1,6 +1,3 @@
-# VLAN-Network-Project
-Computer Networks mini project using VLAN in Cisco Packet Tracer
-
 # 🏥 VLAN-Based Hospital Network
 
 ## 🔧 Implementation using Cisco Packet Tracer
@@ -76,7 +73,7 @@ Each VLAN operates as an independent broadcast domain.
 
 ---
 
-### 🌐 IP Configuration
+### 🌐 IP Configuration (Sample Node)
 
 ![IP](ip_addresses.jpg)
 
@@ -116,6 +113,8 @@ Each VLAN operates as an independent broadcast domain.
 ## 🔗 Repository
 
 https://github.com/phalgunidhopte06/VLAN-Network-Project
+
+---
 
 ## Contributors
 See repository contributors section on GitHub.
