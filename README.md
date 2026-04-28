@@ -119,3 +119,7 @@ https://github.com/phalgunidhopte06/VLAN-Network-Project
 
 ## Observation
 Added connectivity testing details
+
+## IP Addressing
+Added VLAN Configuration details
+
